@@ -1,5 +1,7 @@
 # All my live sites listed here:
 
+Code can be read on my previous GitHub Account: https://github.com/jakubinhoo
+
 Components:<br />
 [Responsive ad page](https://epic-lumiere-c0e0c5.netlify.app)  <br />
 [First JS page](https://xenodochial-pike-fdb1c5.netlify.app) <br />
