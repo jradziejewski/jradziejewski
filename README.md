@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # All my live sites listed here:
 
 Code can be read on my previous GitHub Account: https://github.com/jakubinhoo
