@@ -18,7 +18,5 @@ Websites:<br />
 Apps:<br />
 [Tip calculator app](https://brave-agnesi-f0e72e.netlify.app/)
 
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jradziejewski)](https://github.com/LordDashMe/github-contribution-stats/)
-<br />
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
