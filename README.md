@@ -15,3 +15,7 @@ Components:<br />
 <br />
 Websites:<br />
 [Clipboard landing page](https://lucid-ardinghelli-ddd435.netlify.app/)
+<br />
+<br />
+Apps:<br />
+[Tip calculator app](https://brave-agnesi-f0e72e.netlify.app/)
