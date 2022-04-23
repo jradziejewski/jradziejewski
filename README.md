@@ -12,6 +12,7 @@ Components:<br />
 <br />
 <br />
 Websites:<br />
+[EasySpotiPlaylist](https://jradziejewski.github.io/spotify-playlist-creator/)<br />
 [Clipboard landing page](https://lucid-ardinghelli-ddd435.netlify.app/)
 <br />
 <br />
