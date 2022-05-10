@@ -21,3 +21,4 @@ Apps:<br />
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeWars](https://www.codewars.com/users/jradziejewski/badges/small)
