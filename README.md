@@ -1,6 +1,6 @@
 # All my live sites listed here:
 
-## [My Personal Website](http://www.jradziejewski.netlify.app/)
+## [My Personal Website](https://jradziejewski.netlify.app/)
 <br />
 
 Components:<br />
