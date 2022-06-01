@@ -1,8 +1,7 @@
 # All my live sites listed here:
 
-##[My Personal Website](https://www.jradziejewski.netlify.app/)
+## [My Personal Website](https://www.jradziejewski.netlify.app/)
 <br />
-Code can be read on my previous GitHub Account: https://github.com/jakubinhoo
 
 Components:<br />
 [Responsive ad page](https://epic-lumiere-c0e0c5.netlify.app)  <br />
@@ -21,7 +20,10 @@ Websites:<br />
 Apps:<br />
 [Tip calculator app](https://brave-agnesi-f0e72e.netlify.app/)
 
+Code can be read on my previous GitHub Account: https://github.com/jakubinhoo
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br /><br />
 [![CodeWars](https://www.codewars.com/users/jradziejewski/badges/large)](https://www.codewars.com/users/jradziejewski/)
+
