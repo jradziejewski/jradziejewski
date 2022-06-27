@@ -1,29 +1,51 @@
-# All my live sites listed here:
 
-## [My Personal Website](https://jradziejewski.netlify.app/)
-<br />
+# Hi, I'm Jakub! 👋
 
-Components:<br />
-[Responsive ad page](https://epic-lumiere-c0e0c5.netlify.app)  <br />
-[First JS page](https://xenodochial-pike-fdb1c5.netlify.app) <br />
-[NFT Card](https://quirky-perlman-678b0e.netlify.app) <br />
-[Order summary component](https://youthful-shannon-636706.netlify.app/)<br />
-[3 columns using grid](https://pensive-mclean-65cad2.netlify.app/)<br />
-[Article preview component](https://happy-agnesi-49262f.netlify.app/)<br />
-<br />
-<br />
-Websites:<br />
-[EasySpotiPlaylist](https://jradziejewski.github.io/spotify-playlist-creator/)<br />
-[Clipboard landing page](https://lucid-ardinghelli-ddd435.netlify.app/)
-<br />
-<br />
-Apps:<br />
-[Tip calculator app](https://brave-agnesi-f0e72e.netlify.app/)
 
-Code can be read on my previous GitHub Account: https://github.com/jakubinhoo
+## 🚀 About Me
+I'm a frontend developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br /><br /><br />
-[![CodeWars](https://www.codewars.com/users/jradziejewski/badges/large)](https://www.codewars.com/users/jradziejewski/)
+### 👩‍💻 I'm currently working on:
+* the frontend of a website that allows users to book services
+
+## 🛠 Skills
+
+![c++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
+
+![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
+
+[![sass](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=black)](https://linkedin.com/in/jradziejewski/)
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=React&logoColor=black)
+
+
+### 🧠 I'm currently learning... 
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=ffffff) 
+
+![Jest](https://img.shields.io/badge/Jest-907f7f?style=for-the-badge&logo=jest&logoColor=white)
+
+[![tailwind](https://img.shields.io/badge/tailwind-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=blue)](https://linkedin.com/in/jradziejewski/)
+
+### 📫 How to reach me... 
+
+* jradziejewski01@gmail.com
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jradziejewski.netlify.app/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jradziejewski1)
+
+<p align="left">
+<a href="https://linkedin.com/in/jradziejewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jradziejewski" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19426269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19426269" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jradziejewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jradziejewski" height="30" width="40" /></a>
+</p>
+<a href="https://www.codewars.com/users/jradziejewski/" target="blank"><img align="center" src="https://www.codewars.com/users/jradziejewski/badges/large" alt="jradziejewski"/></a>
+</p>
 
