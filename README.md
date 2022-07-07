@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a frontend developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
+I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
 ### 👩‍💻 I'm currently working on:
 * the frontend of a website that allows users to book services
