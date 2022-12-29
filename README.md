@@ -5,8 +5,9 @@
 ## 🚀 About Me
 I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
-### 👩‍💻 I'm currently working on:
-* the frontend of a website that allows users to book services
+### 👩‍💻 I'm currently:
+* working part-time as a frontend engineer
+* creating backend servers and APIs for learning purposes
 
 ## 🛠 Skills
 
@@ -23,14 +24,13 @@ I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
 ![React](https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=React&logoColor=black)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=ffffff) 
 
 ### 🧠 I'm currently learning... 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=ffffff) 
+![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=purple)
 
 ![Jest](https://img.shields.io/badge/Jest-907f7f?style=for-the-badge&logo=jest&logoColor=white)
-
-[![tailwind](https://img.shields.io/badge/tailwind-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=blue)](https://linkedin.com/in/jradziejewski/)
 
 ### 📫 How to reach me... 
 
