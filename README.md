@@ -7,7 +7,7 @@ I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
 ### 👩‍💻 I'm currently:
 * working as a frontend engineer in react
-* creating backend servers and APIs for learning purposes
+* constantly learning about web development and data science
 
 ## 🛠 Skills
 
