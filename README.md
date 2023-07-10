@@ -6,27 +6,22 @@
 I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
 ### 👩‍💻 I'm currently:
-* working part-time as a frontend engineer
+* working as a frontend engineer in react
 * creating backend servers and APIs for learning purposes
 
 ## 🛠 Skills
 
-![c++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=ffffff) 
+
+![React](https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=React&logoColor=black)
 
 ![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
 
 ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
 
 [![sass](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=black)](https://linkedin.com/in/jradziejewski/)
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=React&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=ffffff) 
-
-### 🧠 I'm currently learning... 
 
 ![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=purple)
 
