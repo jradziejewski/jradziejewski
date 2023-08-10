@@ -27,6 +27,8 @@ I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
 ![Jest](https://img.shields.io/badge/Jest-907f7f?style=for-the-badge&logo=jest&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)
+
 ### 📫 How to reach me... 
 
 * jradziejewski01@gmail.com
