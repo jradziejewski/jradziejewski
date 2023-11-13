@@ -5,6 +5,10 @@
 ## 🚀 About Me
 I'm a full-stack frontend heavy developer based in Poland, working primarily in react with typescript
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)
+
+
 ## 📫 How to reach me... 
 
 * jradziejewski01@gmail.com
