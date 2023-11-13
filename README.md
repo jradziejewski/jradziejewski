@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a full-stack frontend heavy developer based in Poland, working primarily in react with typescript
 
-### 📫 How to reach me... 
+## 📫 How to reach me... 
 
 * jradziejewski01@gmail.com
 
