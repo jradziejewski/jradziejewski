@@ -3,31 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
-
-### 👩‍💻 I'm currently:
-* working as a frontend engineer in react
-* constantly learning about web development and data science
-
-## 🛠 Skills
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=ffffff) 
-
-![React](https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=React&logoColor=black)
-
-![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
-
-![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
-
-[![sass](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=black)](https://linkedin.com/in/jradziejewski/)
-
-![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=purple)
-
-![Jest](https://img.shields.io/badge/Jest-907f7f?style=for-the-badge&logo=jest&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)
+I'm a full-stack frontend heavy developer based in Poland, working primarily in react
 
 ### 📫 How to reach me... 
 
@@ -35,8 +11,6 @@ I'm a developer from Poland, fluent in both Polish 🇵🇱 and English 🇬🇧
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jradziejewski.netlify.app/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jradziejewski1)
 
 <p align="left">
 <a href="https://linkedin.com/in/jradziejewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jradziejewski" height="30" width="40" /></a>
