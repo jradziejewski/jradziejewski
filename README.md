@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full-stack frontend heavy developer based in Poland, working primarily in react
+I'm a full-stack frontend heavy developer based in Poland, working primarily in react with typescript
 
 ### 📫 How to reach me... 
 
