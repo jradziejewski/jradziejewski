@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full-stack frontend heavy developer based in Poland, working primarily in react with typescript
+I'm a full-stack developer bases in Wroclaw, Poland
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)
