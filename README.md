@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full-stack developer bases in Wroclaw, Poland
+I'm a full-stack developer based in Wroclaw, Poland. Passionate about data solutions
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)
