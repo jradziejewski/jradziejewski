@@ -1,21 +1,15 @@
-
 # Hi, I'm Jakub! 👋
-
-
-## 🚀 About Me
-I'm a full-stack developer based in Wroclaw, Poland. Passionate about data solutions
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jradziejewski&layout=compact)
+- 🖥️ I began my programming journey 4 years ago during C university class,
+- 🐍 Currently and my main languages are ***Python***, ***JavaScript*** and ***SQL***,
+- 📈 My favorite areas are ***Web Development*** and ***Data Analysis & Engineering***,
+- 🟦 I'm learning **Go** at the moment
 
 
 ## 📫 How to reach me... 
 
-* jradziejewski01@gmail.com
+* radziejewski.praca@gmail.com
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jradziejewski.netlify.app/)
-
 <p align="left">
 <a href="https://linkedin.com/in/jradziejewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jradziejewski" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19426269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19426269" height="30" width="40" /></a>
