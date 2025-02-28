@@ -12,6 +12,7 @@
 ## 🔗 Links
 <p align="left">
   <a href="https://jradziejewski.github.io/" target="blank">My Blog</a>
+  <br/>
   <a href="https://www.boot.dev/u/jradziejewski" target="blank">My Boot.dev account</a>
   
 <a href="https://linkedin.com/in/jradziejewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jradziejewski" height="30" width="40" /></a>
