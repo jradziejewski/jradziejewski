@@ -1,9 +1,4 @@
 # Hi, I'm Jakub! 👋
-- 🖥️ I began my programming journey 4 years ago during C university class,
-- 🐍 Currently my main languages are ***Python***, ***JavaScript*** and ***SQL***,
-- 📈 My favorite areas are ***Web Development*** and ***Data Analysis & Engineering***,
-- 🔊 I'm learning audio programming in **C++** & **Python** at the moment
-
 
 ## 📫 How to reach me... 
 
