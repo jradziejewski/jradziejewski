@@ -22,7 +22,7 @@
 
 ### 🧠 Where I came from
 
-Before DevOps, I spent years as a software engineer — and I haven't forgotten what it's like to be on the other side of the pipeline.
+Before DevOps, I spent years as a software engineer, and I haven't forgotten what it's like to be on the other side of the pipeline.
 That means I build infrastructure developers actually *want* to use.
 
 - ☁️ Provisioning cloud infrastructure on **Azure & AWS** with **Terraform**
